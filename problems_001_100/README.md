@@ -7,11 +7,11 @@
 
 | # | Problem | C | C++ | Status |
 |---|---------|---|-----|--------|
-| 001 | [Multiples of 3 or 5](https://projecteuler.net/problem=1) | | | - |
-| 002 | [Even Fibonacci Numbers](https://projecteuler.net/problem=2) | | | - |
-| 003 | [Largest Prime Factor](https://projecteuler.net/problem=3) | | | - |
-| 004 | [Largest Palindrome Product](https://projecteuler.net/problem=4) | | | - |
-| 005 | [Smallest Multiple](https://projecteuler.net/problem=5) | | | - |
+| 001 | [Multiples of 3 or 5](https://projecteuler.net/problem=1) | x | x | done |
+| 002 | [Even Fibonacci Numbers](https://projecteuler.net/problem=2) | x | x | done |
+| 003 | [Largest Prime Factor](https://projecteuler.net/problem=3) | x | x | done |
+| 004 | [Largest Palindrome Product](https://projecteuler.net/problem=4) | x | x | done |
+| 005 | [Smallest Multiple](https://projecteuler.net/problem=5) | x | x | done |
 | 006 | [Sum Square Difference](https://projecteuler.net/problem=6) | | | - |
 | 007 | [10001st Prime](https://projecteuler.net/problem=7) | | | - |
 | 008 | [Largest Product in a Series](https://projecteuler.net/problem=8) | | | - |
