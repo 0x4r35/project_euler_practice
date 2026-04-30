@@ -13,11 +13,11 @@
 | 004 | [Largest Palindrome Product](https://projecteuler.net/problem=4) | x | x | done |
 | 005 | [Smallest Multiple](https://projecteuler.net/problem=5) | x | x | done |
 | 006 | [Sum Square Difference](https://projecteuler.net/problem=6) | x | x | done |
-| 007 | [10001st Prime](https://projecteuler.net/problem=7) | | | - |
-| 008 | [Largest Product in a Series](https://projecteuler.net/problem=8) | | | - |
-| 009 | [Special Pythagorean Triplet](https://projecteuler.net/problem=9) | | | - |
-| 010 | [Summation of Primes](https://projecteuler.net/problem=10) | | | - |
-| 011 | [Largest Product in a Grid](https://projecteuler.net/problem=11) | | | - |
+| 007 | [10001st Prime](https://projecteuler.net/problem=7) | x | x | done |
+| 008 | [Largest Product in a Series](https://projecteuler.net/problem=8) | x | x | done |
+| 009 | [Special Pythagorean Triplet](https://projecteuler.net/problem=9) | x | x | done |
+| 010 | [Summation of Primes](https://projecteuler.net/problem=10) | x | x | done |
+| 011 | [Largest Product in a Grid](https://projecteuler.net/problem=11) | x | x | done |
 | 012 | [Highly Divisible Triangular Number](https://projecteuler.net/problem=12) | | | - |
 | 013 | [Large Sum](https://projecteuler.net/problem=13) | | | - |
 | 014 | [Longest Collatz Sequence](https://projecteuler.net/problem=14) | | | - |
