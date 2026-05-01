@@ -1,0 +1,76 @@
+name: Build & Test Solutions
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build-c:
+    name: Build C Solutions
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install GCC
+        run: sudo apt-get update && sudo apt-get install -y gcc
+
+      - name: Find and compile all C files
+        run: |
+          echo "Searching for C solution files..."
+          found=0
+          failed=0
+          for file in $(find . -name "*.c" -type f); do
+            echo "Compiling: $file"
+            if gcc -o "${file%.c}.out" "$file" -lm -Wall -Wextra; then
+              echo "Success: $file"
+              found=$((found + 1))
+            else
+              echo "Failed: $file"
+              failed=$((failed + 1))
+            fi
+          done
+          echo ""
+          echo "Results: $found compiled successfully, $failed failed"
+          if [ $failed -gt 0 ]; then
+            exit 1
+          fi
+          if [ $found -eq 0 ]; then
+            echo "No C files found yet. That's okay -- start solving!"
+          fi
+
+  build-cpp:
+    name: Build C++ Solutions
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install G++
+        run: sudo apt-get update && sudo apt-get install -y g++
+
+      - name: Find and compile all C++ files
+        run: |
+          echo "Searching for C++ solution files..."
+          found=0
+          failed=0
+          for file in $(find . -name "*.cpp" -type f); do
+            echo "Compiling: $file"
+            if g++ -o "${file%.cpp}.out" "$file" -lm -Wall -Wextra -std=c++17; then
+              echo "Success: $file"
+              found=$((found + 1))
+            else
+              echo "Failed: $file"
+              failed=$((failed + 1))
+            fi
+          done
+          echo ""
+          echo "Results: $found compiled successfully, $failed failed"
+          if [ $failed -gt 0 ]; then
+            exit 1
+          fi
+          if [ $found -eq 0 ]; then
+            echo "No C++ files found yet. That's okay -- start solving!"
+          fi

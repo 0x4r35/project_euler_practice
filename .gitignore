@@ -1,0 +1,68 @@
+# ==========================================
+# C / C++ Compiled Files
+# ==========================================
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# ==========================================
+# Build Directories
+# ==========================================
+build/
+bin/
+obj/
+debug/
+release/
+
+# ==========================================
+# IDE / Editor Files
+# ==========================================
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.*
+
+# CLion / JetBrains
+.idea/
+cmake-build-*/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# ==========================================
+# OS Generated Files
+# ==========================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# ==========================================
+# Misc
+# ==========================================
+*.log
+*.tmp
+*.swp
+*.swo
