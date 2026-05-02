@@ -24,8 +24,8 @@
 | 015 | [Lattice Paths](https://projecteuler.net/problem=15) | x | x | done |
 | 016 | [Power Digit Sum](https://projecteuler.net/problem=16) | x | x | done |
 | 017 | [Number Letter Counts](https://projecteuler.net/problem=17) | x |x | done |
-| 018 | [Maximum Path Sum I](https://projecteuler.net/problem=18) | | | - |
-| 019 | [Counting Sundays](https://projecteuler.net/problem=19) | | | - |
+| 018 | [Maximum Path Sum I](https://projecteuler.net/problem=18) | x | x | done |
+| 019 | [Counting Sundays](https://projecteuler.net/problem=19) | x | x | done |
 | 020 | [Factorial Digit Sum](https://projecteuler.net/problem=20) | | | - |
 | 021 | [Amicable Numbers](https://projecteuler.net/problem=21) | | | - |
 | 022 | [Names Scores](https://projecteuler.net/problem=22) | | | - |
