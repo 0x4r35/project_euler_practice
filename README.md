@@ -108,6 +108,9 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
 
 This project is licensed under the MIT License — see [LICENSE](./LICENSE) for details.
 
+## C++ resources 
+https://github.com/RedSkittleFox/Cpp-Learning-Resources
+
 ---
 
 <div align="center">
