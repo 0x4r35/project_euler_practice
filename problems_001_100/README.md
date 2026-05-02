@@ -27,7 +27,7 @@
 | 018 | [Maximum Path Sum I](https://projecteuler.net/problem=18) | x | x | done |
 | 019 | [Counting Sundays](https://projecteuler.net/problem=19) | x | x | done |
 | 020 | [Factorial Digit Sum](https://projecteuler.net/problem=20) | x | x | done |
-| 021 | [Amicable Numbers](https://projecteuler.net/problem=21) | x | x | - |
+| 021 | [Amicable Numbers](https://projecteuler.net/problem=21) | x | x | done |
 | 022 | [Names Scores](https://projecteuler.net/problem=22) | | | - |
 | 023 | [Non-Abundant Sums](https://projecteuler.net/problem=23) | | | - |
 | 024 | [Lexicographic Permutations](https://projecteuler.net/problem=24) | | | - |
