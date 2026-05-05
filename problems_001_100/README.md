@@ -30,7 +30,7 @@
 | 021 | [Amicable Numbers](https://projecteuler.net/problem=21) | x | x | done |
 | 022 | [Names Scores](https://projecteuler.net/problem=22) | x | x | done |
 | 023 | [Non-Abundant Sums](https://projecteuler.net/problem=23) | x | x | done |
-| 024 | [Lexicographic Permutations](https://projecteuler.net/problem=24) | | | - |
+| 024 | [Lexicographic Permutations](https://projecteuler.net/problem=24) | x | x | done |
 | 025 | [1000-digit Fibonacci Number](https://projecteuler.net/problem=25) | | | - |
 | 026 | [Reciprocal Cycles](https://projecteuler.net/problem=26) | | | - |
 | 027 | [Quadratic Primes](https://projecteuler.net/problem=27) | | | - |
