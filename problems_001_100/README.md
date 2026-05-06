@@ -31,9 +31,9 @@
 | 022 | [Names Scores](https://projecteuler.net/problem=22) | x | x | done |
 | 023 | [Non-Abundant Sums](https://projecteuler.net/problem=23) | x | x | done |
 | 024 | [Lexicographic Permutations](https://projecteuler.net/problem=24) | x | x | done |
-| 025 | [1000-digit Fibonacci Number](https://projecteuler.net/problem=25) | | | - |
-| 026 | [Reciprocal Cycles](https://projecteuler.net/problem=26) | | | - |
-| 027 | [Quadratic Primes](https://projecteuler.net/problem=27) | | | - |
+| 025 | [1000-digit Fibonacci Number](https://projecteuler.net/problem=25) | x | x | done |
+| 026 | [Reciprocal Cycles](https://projecteuler.net/problem=26) | x | x | done |
+| 027 | [Quadratic Primes](https://projecteuler.net/problem=27) | x | x | done |
 | 028 | [Number Spiral Diagonals](https://projecteuler.net/problem=28) | | | - |
 | 029 | [Distinct Powers](https://projecteuler.net/problem=29) | | | - |
 | 030 | [Digit Fifth Powers](https://projecteuler.net/problem=30) | | | - |
