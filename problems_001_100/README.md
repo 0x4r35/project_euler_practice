@@ -34,10 +34,10 @@
 | 025 | [1000-digit Fibonacci Number](https://projecteuler.net/problem=25) | x | x | done |
 | 026 | [Reciprocal Cycles](https://projecteuler.net/problem=26) | x | x | done |
 | 027 | [Quadratic Primes](https://projecteuler.net/problem=27) | x | x | done |
-| 028 | [Number Spiral Diagonals](https://projecteuler.net/problem=28) | | | - |
-| 029 | [Distinct Powers](https://projecteuler.net/problem=29) | | | - |
-| 030 | [Digit Fifth Powers](https://projecteuler.net/problem=30) | | | - |
-| 031 | [Coin Sums](https://projecteuler.net/problem=31) | | | - |
+| 028 | [Number Spiral Diagonals](https://projecteuler.net/problem=28) | x | x | done |
+| 029 | [Distinct Powers](https://projecteuler.net/problem=29) | x | x | done |
+| 030 | [Digit Fifth Powers](https://projecteuler.net/problem=30) | x | x | done |
+| 031 | [Coin Sums](https://projecteuler.net/problem=31) | x | x | done |
 | 032 | [Pandigital Products](https://projecteuler.net/problem=32) | | | - |
 | 033 | [Digit Cancelling Fractions](https://projecteuler.net/problem=33) | | | - |
 | 034 | [Digit Factorials](https://projecteuler.net/problem=34) | | | - |
