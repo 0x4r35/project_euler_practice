@@ -38,7 +38,7 @@
 | 029 | [Distinct Powers](https://projecteuler.net/problem=29) | x | x | done |
 | 030 | [Digit Fifth Powers](https://projecteuler.net/problem=30) | x | x | done |
 | 031 | [Coin Sums](https://projecteuler.net/problem=31) | x | x | done |
-| 032 | [Pandigital Products](https://projecteuler.net/problem=32) | | | - |
+| 032 | [Pandigital Products](https://projecteuler.net/problem=32) | x | x | done |
 | 033 | [Digit Cancelling Fractions](https://projecteuler.net/problem=33) | | | - |
 | 034 | [Digit Factorials](https://projecteuler.net/problem=34) | | | - |
 | 035 | [Circular Primes](https://projecteuler.net/problem=35) | | | - |
