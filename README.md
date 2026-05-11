@@ -111,6 +111,8 @@ This project is licensed under the MIT License — see [LICENSE](./LICENSE) for 
 ## C++ resources 
 https://github.com/RedSkittleFox/Cpp-Learning-Resources
 
+**note** you can add resources here 
+
 ---
 
 <div align="center">
