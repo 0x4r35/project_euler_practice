@@ -51,3 +51,5 @@ int main() {
     cout << sum << "\n";
     return 0;
 }
+
+//this problem have an easy method to solve i will post it soon 
