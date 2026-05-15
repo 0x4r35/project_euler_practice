@@ -39,8 +39,8 @@
 | 030 | [Digit Fifth Powers](https://projecteuler.net/problem=30) | x | x | done |
 | 031 | [Coin Sums](https://projecteuler.net/problem=31) | x | x | done |
 | 032 | [Pandigital Products](https://projecteuler.net/problem=32) | x | x | done |
-| 033 | [Digit Cancelling Fractions](https://projecteuler.net/problem=33) | | | - |
-| 034 | [Digit Factorials](https://projecteuler.net/problem=34) | | | - |
+| 033 | [Digit Cancelling Fractions](https://projecteuler.net/problem=33) | x | x | done |
+| 034 | [Digit Factorials](https://projecteuler.net/problem=34) | x | x | done |
 | 035 | [Circular Primes](https://projecteuler.net/problem=35) | | | - |
 | 036 | [Double-base Palindromes](https://projecteuler.net/problem=36) | | | - |
 | 037 | [Truncatable Primes](https://projecteuler.net/problem=37) | | | - |
