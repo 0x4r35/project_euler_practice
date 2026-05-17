@@ -17,3 +17,4 @@ We can accumulate this sum for all odd numbers $n$ from 3 to 1001, starting with
 
 ## Learnings
 Deriving the mathematical formula for the corner values converts a simulation problem into a simple arithmetic progression calculation, vastly improving performance.
+

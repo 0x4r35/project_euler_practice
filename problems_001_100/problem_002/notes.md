@@ -34,3 +34,4 @@ Starting with E(1) = 2, E(2) = 8, this gives: 2, 8, 34, 144, 610, ...
 - Fibonacci numbers have a periodicity pattern for divisibility (Pisano period)
 - Every 3rd Fibonacci number is even — this is provable from the O, O, E pattern
 - Deriving sub-recurrences can eliminate unnecessary computation
+

@@ -6,3 +6,4 @@ Used a straightforward iteration over all possible $1 \times 4$ sequences in the
 ## Complexity
 - **Time:** $O(N^2)$ where $N = 20$.
 - **Space:** $O(N^2)$ to store the grid.
+

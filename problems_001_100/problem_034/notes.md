@@ -18,3 +18,4 @@ By iterating from $10$ to $2540160$ and precomputing the factorials from $0!$ to
 ## Final Calculation
 Summing these numbers together:
 $$145 + 40585 = 40730$$
+

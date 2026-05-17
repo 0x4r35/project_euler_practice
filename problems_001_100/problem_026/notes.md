@@ -9,3 +9,4 @@ We can iterate through all values of $d$ from 2 to 999. For each $d$, we simulat
 ## Complexity Analysis
 - **Time Complexity:** $\mathcal{O}(D^2)$ where $D$ is the maximum value of the denominator (1000). For each $d$, the cycle length can be at most $d-1$, so the inner loop runs at most $d$ times. The overall time complexity is roughly $\sum_{d=2}^{999} d \approx \frac{1000^2}{2} = 500,000$ operations, which runs almost instantaneously.
 - **Space Complexity:** $\mathcal{O}(D)$, as we use an array of size $D$ to keep track of the seen remainders for each $d$.
+

@@ -10,3 +10,4 @@ For each pair $(a, b)$, we count how many consecutive primes are produced. We ke
 ## Complexity Analysis
 - **Time Complexity:** $\mathcal{O}(A \times P \times N \times \sqrt{V})$ where $A$ is the number of possible $a$ values (2000), $P$ is the number of primes up to 1000 (168), $N$ is the maximum sequence length (less than 100), and $V$ is the maximum value evaluated. This translates to roughly $2000 \times 168 \times 80 \times 300 \approx 8 \times 10^6$ operations in the worst case, but the inner loop breaks early for most pairs. The practical runtime is fractions of a second.
 - **Space Complexity:** $\mathcal{O}(1)$. We only use a few variables to store the maximum values found.
+

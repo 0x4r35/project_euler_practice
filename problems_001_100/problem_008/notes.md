@@ -6,3 +6,4 @@ Iterated through the 1000-digit number and calculated the product of every conti
 ## Complexity
 - **Time:** $O(N)$ where N is the number of digits.
 - **Space:** $O(N)$ to store the string.
+

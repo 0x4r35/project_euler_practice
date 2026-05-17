@@ -32,3 +32,4 @@ Product of the fractions:
 $$ \frac{1}{4} \times \frac{1}{5} \times \frac{2}{5} \times \frac{1}{2} = \frac{2}{200} = \frac{1}{100} $$
 
 In its lowest common terms, the denominator is **100**.
+

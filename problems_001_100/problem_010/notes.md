@@ -6,3 +6,4 @@ Used the Sieve of Eratosthenes to efficiently find all prime numbers below two m
 ## Complexity
 - **Time:** $O(N \log \log N)$ where $N$ is 2,000,000.
 - **Space:** $O(N)$
+

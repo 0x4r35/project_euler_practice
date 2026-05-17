@@ -32,3 +32,4 @@ We subtract multiples of 15 because those are counted twice (divisible by both 3
 - Inclusion-exclusion principle avoids double counting
 - Arithmetic series formula: `S = n(n+1)/2` is incredibly useful
 - Always look for a mathematical shortcut before brute forcing
+

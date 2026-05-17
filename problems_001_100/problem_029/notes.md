@@ -12,3 +12,4 @@ In C, we simulate the set behavior by storing all prime exponent arrays, sorting
 
 ## Learnings
 Prime factorization provides an exact and reliable way to identify large powers without dealing with floating-point inaccuracies or BigInt libraries.
+

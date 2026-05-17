@@ -39,3 +39,4 @@ This cuts the inner loop iterations by ~11× in most cases.
 - `abccba = 11 × (9091a + 910b + 100c)` — always divisible by 11!
 - Searching from largest down + early exit makes brute force practical
 - String reversal is a clean way to check palindromes but digit reversal avoids allocations
+

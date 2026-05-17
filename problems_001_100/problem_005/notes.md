@@ -44,3 +44,4 @@ Result: 16 × 9 × 5 × 7 × 11 × 13 × 17 × 19 = **232792560**
 - The Euclidean algorithm for GCD is O(log(min(a,b))) — very fast
 - C++17 provides `std::gcd` in `<numeric>` — no need to implement manually
 - LCM of 1..n is the product of highest prime powers ≤ n (fundamental theorem of arithmetic)
+

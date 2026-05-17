@@ -13,3 +13,4 @@ We can simply iterate from 10 to 355000, checking if the sum of the fifth powers
 
 ## Learnings
 Finding the logical upper bound is the key to solving this problem efficiently by limiting the search space. Precomputing repeated values (like powers of digits) is a standard optimization.
+

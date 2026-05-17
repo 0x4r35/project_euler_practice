@@ -32,3 +32,4 @@ For n = 600,851,475,143 → √n ≈ 775,146, so at most ~387,573 iterations.
 - A number can have at most ONE prime factor greater than its square root
 - Dividing out small factors progressively reduces the search space
 - `long long` is essential — 600 billion overflows `int` (max ~2.1 billion)
+

@@ -6,3 +6,4 @@ Brute forced pairs of `a` and `b` where $a < b$. Since $a + b + c = 1000$, we ca
 ## Complexity
 - **Time:** $O(S^2)$ where $S = 1000$.
 - **Space:** $O(1)$
+
