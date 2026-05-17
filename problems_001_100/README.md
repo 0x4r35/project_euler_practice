@@ -41,11 +41,11 @@
 | 032 | [Pandigital Products](https://projecteuler.net/problem=32) | x | x | done |
 | 033 | [Digit Cancelling Fractions](https://projecteuler.net/problem=33) | x | x | done |
 | 034 | [Digit Factorials](https://projecteuler.net/problem=34) | x | x | done |
-| 035 | [Circular Primes](https://projecteuler.net/problem=35) | | | - |
-| 036 | [Double-base Palindromes](https://projecteuler.net/problem=36) | | | - |
-| 037 | [Truncatable Primes](https://projecteuler.net/problem=37) | | | - |
-| 038 | [Pandigital Multiples](https://projecteuler.net/problem=38) | | | - |
-| 039 | [Integer Right Triangles](https://projecteuler.net/problem=39) | | | - |
+| 035 | [Circular Primes](https://projecteuler.net/problem=35) | x | x | done |
+| 036 | [Double-base Palindromes](https://projecteuler.net/problem=36) | x | x | done |
+| 037 | [Truncatable Primes](https://projecteuler.net/problem=37) | x | x | done |
+| 038 | [Pandigital Multiples](https://projecteuler.net/problem=38) | x | x | done |
+| 039 | [Integer Right Triangles](https://projecteuler.net/problem=39) | x | x | done |
 | 040 | [Champernowne's Constant](https://projecteuler.net/problem=40) | | | - |
 | 041 | [Pandigital Prime](https://projecteuler.net/problem=41) | | | - |
 | 042 | [Coded Triangle Numbers](https://projecteuler.net/problem=42) | | | - |
