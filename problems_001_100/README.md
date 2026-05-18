@@ -46,9 +46,9 @@
 | 037 | [Truncatable Primes](https://projecteuler.net/problem=37) | x | x | done |
 | 038 | [Pandigital Multiples](https://projecteuler.net/problem=38) | x | x | done |
 | 039 | [Integer Right Triangles](https://projecteuler.net/problem=39) | x | x | done |
-| 040 | [Champernowne's Constant](https://projecteuler.net/problem=40) | | | - |
-| 041 | [Pandigital Prime](https://projecteuler.net/problem=41) | | | - |
-| 042 | [Coded Triangle Numbers](https://projecteuler.net/problem=42) | | | - |
+| 040 | [Champernowne's Constant](https://projecteuler.net/problem=40) | x | x | done |
+| 041 | [Pandigital Prime](https://projecteuler.net/problem=41) | x | x | done |
+| 042 | [Coded Triangle Numbers](https://projecteuler.net/problem=42) | x | x | done |
 | 043 | [Sub-string Divisibility](https://projecteuler.net/problem=43) | | | - |
 | 044 | [Pentagon Numbers](https://projecteuler.net/problem=44) | | | - |
 | 045 | [Triangular, Pentagonal, and Hexagonal](https://projecteuler.net/problem=45) | | | - |
