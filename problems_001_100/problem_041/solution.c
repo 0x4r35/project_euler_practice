@@ -1,13 +1,3 @@
-/*
- * Project Euler - Problem 041
- * Pandigital Prime
- * https://projecteuler.net/problem=41
- *
- * Author: 0x4r35
- * Language: C
- *
- * Find the largest n-digit pandigital prime that exists.
- */
 
 #include <stdio.h>
 #include <stdbool.h>

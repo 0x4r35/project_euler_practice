@@ -1,13 +1,3 @@
-/*
- * Project Euler - Problem 040
- * Champernowne's Constant
- * https://projecteuler.net/problem=40
- *
- * Author: 0x4r35
- * Language: C++
- *
- * Find the value of the expression: d_1 * d_10 * d_100 * d_1000 * d_10000 * d_100000 * d_1000000
- */
 
 #include <iostream>
 #include <vector>

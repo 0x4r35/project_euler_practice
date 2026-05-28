@@ -1,13 +1,4 @@
-/*
- * Project Euler - Problem 042
- * Coded Triangle Numbers
- * https://projecteuler.net/problem=42
- *
- * Author: 0x4r35
- * Language: C++
- *
- * How many words in the words.txt file are triangle words?
- */
+
 
 #include <iostream>
 #include <fstream>

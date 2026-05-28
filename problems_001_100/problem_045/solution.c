@@ -1,12 +1,3 @@
-/*
- * Project Euler - Problem 045
- * Triangular, pentagonal, and hexagonal
- * https://projecteuler.net/problem=45
- *
- * Author: 0x4r35
- * Language: C
- */
-
 #include <stdio.h>
 #include <math.h>
 

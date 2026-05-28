@@ -1,11 +1,3 @@
-/*
- * Project Euler - Problem 043
- * Sub-string divisibility
- * https://projecteuler.net/problem=43
- *
- * Author: 0x4r35
- * Language: C++
- */
 
 #include <iostream>
 #include <string>
