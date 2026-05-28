@@ -49,9 +49,9 @@
 | 040 | [Champernowne's Constant](https://projecteuler.net/problem=40) | x | x | done |
 | 041 | [Pandigital Prime](https://projecteuler.net/problem=41) | x | x | done |
 | 042 | [Coded Triangle Numbers](https://projecteuler.net/problem=42) | x | x | done |
-| 043 | [Sub-string Divisibility](https://projecteuler.net/problem=43) | | | - |
-| 044 | [Pentagon Numbers](https://projecteuler.net/problem=44) | | | - |
-| 045 | [Triangular, Pentagonal, and Hexagonal](https://projecteuler.net/problem=45) | | | - |
+| 043 | [Sub-string Divisibility](https://projecteuler.net/problem=43) | x | x | done |
+| 044 | [Pentagon Numbers](https://projecteuler.net/problem=44) | x | x | done |
+| 045 | [Triangular, Pentagonal, and Hexagonal](https://projecteuler.net/problem=45) | x | x | done |
 | 046 | [Goldbach's Other Conjecture](https://projecteuler.net/problem=46) | | | - |
 | 047 | [Distinct Primes Factors](https://projecteuler.net/problem=47) | | | - |
 | 048 | [Self Powers](https://projecteuler.net/problem=48) | | | - |
