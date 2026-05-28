@@ -52,7 +52,7 @@
 | 043 | [Sub-string Divisibility](https://projecteuler.net/problem=43) | x | x | done |
 | 044 | [Pentagon Numbers](https://projecteuler.net/problem=44) | x | x | done |
 | 045 | [Triangular, Pentagonal, and Hexagonal](https://projecteuler.net/problem=45) | x | x | done |
-| 046 | [Goldbach's Other Conjecture](https://projecteuler.net/problem=46) | | | - |
+| 046 | [Goldbach's Other Conjecture](https://projecteuler.net/problem=46) | x | x | done |
 | 047 | [Distinct Primes Factors](https://projecteuler.net/problem=47) | | | - |
 | 048 | [Self Powers](https://projecteuler.net/problem=48) | | | - |
 | 049 | [Prime Permutations](https://projecteuler.net/problem=49) | | | - |
