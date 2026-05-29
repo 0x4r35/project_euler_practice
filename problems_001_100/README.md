@@ -53,10 +53,10 @@
 | 044 | [Pentagon Numbers](https://projecteuler.net/problem=44) | x | x | done |
 | 045 | [Triangular, Pentagonal, and Hexagonal](https://projecteuler.net/problem=45) | x | x | done |
 | 046 | [Goldbach's Other Conjecture](https://projecteuler.net/problem=46) | x | x | done |
-| 047 | [Distinct Primes Factors](https://projecteuler.net/problem=47) | | | - |
-| 048 | [Self Powers](https://projecteuler.net/problem=48) | | | - |
-| 049 | [Prime Permutations](https://projecteuler.net/problem=49) | | | - |
-| 050 | [Consecutive Prime Sum](https://projecteuler.net/problem=50) | | | - |
+| 047 | [Distinct Primes Factors](https://projecteuler.net/problem=47) | x | x | done |
+| 048 | [Self Powers](https://projecteuler.net/problem=48) | x | x | done |
+| 049 | [Prime Permutations](https://projecteuler.net/problem=49) | x | x | done |
+| 050 | [Consecutive Prime Sum](https://projecteuler.net/problem=50) | x | x | done |
 | 051 | [Prime Digit Replacements](https://projecteuler.net/problem=51) | | | - |
 | 052 | [Permuted Multiples](https://projecteuler.net/problem=52) | | | - |
 | 053 | [Combinatoric Selections](https://projecteuler.net/problem=53) | | | - |
