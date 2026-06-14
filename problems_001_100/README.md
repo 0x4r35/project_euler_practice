@@ -57,11 +57,11 @@
 | 048 | [Self Powers](https://projecteuler.net/problem=48) | x | x | done |
 | 049 | [Prime Permutations](https://projecteuler.net/problem=49) | x | x | done |
 | 050 | [Consecutive Prime Sum](https://projecteuler.net/problem=50) | x | x | done |
-| 051 | [Prime Digit Replacements](https://projecteuler.net/problem=51) | | | - |
-| 052 | [Permuted Multiples](https://projecteuler.net/problem=52) | | | - |
-| 053 | [Combinatoric Selections](https://projecteuler.net/problem=53) | | | - |
-| 054 | [Poker Hands](https://projecteuler.net/problem=54) | | | - |
-| 055 | [Lychrel Numbers](https://projecteuler.net/problem=55) | | | - |
+| 051 | [Prime Digit Replacements](https://projecteuler.net/problem=51) | x | x | done |
+| 052 | [Permuted Multiples](https://projecteuler.net/problem=52) | x | x | done |
+| 053 | [Combinatoric Selections](https://projecteuler.net/problem=53) | x | x | done |
+| 054 | [Poker Hands](https://projecteuler.net/problem=54) | x | x | done |
+| 055 | [Lychrel Numbers](https://projecteuler.net/problem=55) | x | x | done |
 | 056 | [Powerful Digit Sum](https://projecteuler.net/problem=56) | | | - |
 | 057 | [Square Root Convergents](https://projecteuler.net/problem=57) | | | - |
 | 058 | [Spiral Primes](https://projecteuler.net/problem=58) | | | - |
