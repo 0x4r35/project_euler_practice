@@ -62,11 +62,11 @@
 | 053 | [Combinatoric Selections](https://projecteuler.net/problem=53) | x | x | done |
 | 054 | [Poker Hands](https://projecteuler.net/problem=54) | x | x | done |
 | 055 | [Lychrel Numbers](https://projecteuler.net/problem=55) | x | x | done |
-| 056 | [Powerful Digit Sum](https://projecteuler.net/problem=56) | | | - |
-| 057 | [Square Root Convergents](https://projecteuler.net/problem=57) | | | - |
-| 058 | [Spiral Primes](https://projecteuler.net/problem=58) | | | - |
-| 059 | [XOR Decryption](https://projecteuler.net/problem=59) | | | - |
-| 060 | [Prime Pair Sets](https://projecteuler.net/problem=60) | | | - |
+| 056 | [Powerful Digit Sum](https://projecteuler.net/problem=56) | x | x | done |
+| 057 | [Square Root Convergents](https://projecteuler.net/problem=57) | x | x | done |
+| 058 | [Spiral Primes](https://projecteuler.net/problem=58) | x | x | done |
+| 059 | [XOR Decryption](https://projecteuler.net/problem=59) | x | x | done |
+| 060 | [Prime Pair Sets](https://projecteuler.net/problem=60) | x | x | done |
 | 061 | [Cyclical Figurate Numbers](https://projecteuler.net/problem=61) | | | - |
 | 062 | [Cubic Permutations](https://projecteuler.net/problem=62) | | | - |
 | 063 | [Powerful Digit Counts](https://projecteuler.net/problem=63) | | | - |
