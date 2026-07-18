@@ -67,7 +67,7 @@
 | 058 | [Spiral Primes](https://projecteuler.net/problem=58) | x | x | done |
 | 059 | [XOR Decryption](https://projecteuler.net/problem=59) | x | x | done |
 | 060 | [Prime Pair Sets](https://projecteuler.net/problem=60) | x | x | done |
-| 061 | [Cyclical Figurate Numbers](https://projecteuler.net/problem=61) | | | - |
+| 061 | [Cyclical Figurate Numbers](https://projecteuler.net/problem=61) | x | x | done |
 | 062 | [Cubic Permutations](https://projecteuler.net/problem=62) | | | - |
 | 063 | [Powerful Digit Counts](https://projecteuler.net/problem=63) | | | - |
 | 064 | [Odd Period Square Roots](https://projecteuler.net/problem=64) | | | - |
