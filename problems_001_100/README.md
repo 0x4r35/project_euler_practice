@@ -69,7 +69,7 @@
 | 060 | [Prime Pair Sets](https://projecteuler.net/problem=60) | x | x | done |
 | 061 | [Cyclical Figurate Numbers](https://projecteuler.net/problem=61) | x | x | done |
 | 062 | [Cubic Permutations](https://projecteuler.net/problem=62) | x | x | done |
-| 063 | [Powerful Digit Counts](https://projecteuler.net/problem=63) | | | - |
+| 063 | [Powerful Digit Counts](https://projecteuler.net/problem=63) | x | x | done |
 | 064 | [Odd Period Square Roots](https://projecteuler.net/problem=64) | | | - |
 | 065 | [Convergents of e](https://projecteuler.net/problem=65) | | | - |
 | 066 | [Diophantine Equation](https://projecteuler.net/problem=66) | | | - |
